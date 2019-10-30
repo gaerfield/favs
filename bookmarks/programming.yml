@@ -3,7 +3,7 @@ kotlin:
     - UIID for JPA entities:
       - https://jivimberg.io/blog/2018/11/05/using-uuid-on-spring-data-jpa-entities/
       - Using UUID on Spring Data JPA Entities
-    -  don't use data-classes for JPA:
+    - don't use data-classes for JPA:
       - https://kotlinexpertise.com/hibernate-with-kotlin-spring-boot/
       - hibernate and kotlin
   - Unit-Testing:
