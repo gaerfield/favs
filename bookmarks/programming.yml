@@ -1,0 +1,22 @@
+kotlin:
+  - JPA:
+    - UIID for JPA entities:
+      - https://jivimberg.io/blog/2018/11/05/using-uuid-on-spring-data-jpa-entities/
+      - Using UUID on Spring Data JPA Entities
+    -  don't use data-classes for JPA:
+      - https://kotlinexpertise.com/hibernate-with-kotlin-spring-boot/
+      - hibernate and kotlin
+  - Unit-Testing:
+    - unit-testing tipps: https://phauer.com/2018/best-practices-unit-testing-kotlin/#other-useful-assertj-assertions
+    - baeldung: https://www.baeldung.com/junit-5-kotlin
+  - language:
+    - guy with some awkward kotlin-tipps: https://agrawalsuneet.github.io/publications/
+    - scope functions table (let, with, ...): https://kotlinlang.org/docs/reference/scope-functions.html#function-selection
+spring:
+  - official:
+    - spring-security: https://docs.spring.io/spring-security/site/docs/current/reference/html5/#domain-acls
+    - websockets: https://docs.spring.io/spring-framework/docs/5.0.0.BUILD-SNAPSHOT/spring-framework-reference/html/websocket.html
+  - tutorials:
+    - baeldung websockets: https://www.baeldung.com/websockets-spring
+    - bealdung secuity acl: https://www.baeldung.com/spring-security-acl
+    - spring-security dynamic ACL: http://itshrine.com/dynamically-secure-methods-by-spring-security/
