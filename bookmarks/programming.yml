@@ -14,8 +14,11 @@ kotlin:
     - scope functions table (let, with, ...): https://kotlinlang.org/docs/reference/scope-functions.html#function-selection
 spring:
   - official:
+    - legacy spring docs?: https://spring.io/docs/reference
+    - spring docs but different?: https://docs.spring.io/spring/docs/current/spring-framework-reference/
     - spring-security: https://docs.spring.io/spring-security/site/docs/current/reference/html5/#domain-acls
-    - websockets: https://docs.spring.io/spring-framework/docs/5.0.0.BUILD-SNAPSHOT/spring-framework-reference/html/websocket.html
+    - websockets: https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#websocket
+    - websocket-security: https://docs.spring.io/spring-security/site/docs/5.2.0.RELEASE/reference/htmlsingle/#websocket
   - tutorials:
     - baeldung websockets: https://www.baeldung.com/websockets-spring
     - bealdung secuity acl: https://www.baeldung.com/spring-security-acl
