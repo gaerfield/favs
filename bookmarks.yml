@@ -1,6 +1,19 @@
-ide:
+everything:
   - intellij:
     - shortcuts: http://gaerfield.github.io/ide-shortcuts/
+  - plantuml:
+    - home: https://plantuml.com/de/
+    - Hitchhiker’s Guide to PlantUML!: https://crashedmind.github.io/PlantUMLHitchhikersGuide/
+    - overview in confluence: https://confluence.eudemonia-solutions.de/display/~blaschke/Test+des+konfigurierten+PlantUML-Stylesheets
+    - markdown-preview-enhanced atom: https://github.com/shd101wyy/markdown-preview-enhanced
+    - markdown-preview-enhanced visual studio code: https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced
+  - git:
+    - fzf-keybindings: https://junegunn.kr/2016/07/fzf-git
+    - fzf-keybindings-repo: https://gist.github.com/junegunn/8b572b8d4b5eddd8b85e5f4d40f17236
+  - shell:
+    - byobu: https://gist.github.com/jshaw/5255721
+    - my dotfiles: https://github.com/gaerfield/dotfiles
+
 kotlin:
   - JPA:
     - UIID for JPA entities:
@@ -15,15 +28,20 @@ kotlin:
   - language:
     - guy with some awkward kotlin-tipps: https://agrawalsuneet.github.io/publications/
     - scope functions table (let, with, ...): https://kotlinlang.org/docs/reference/scope-functions.html#function-selection
+
+gradle:
+  - migrating from groovy to kotlin: https://guides.gradle.org/migrating-build-logic-from-groovy-to-kotlin/
+  - multi-project builds: https://docs.gradle.org/current/userguide/multi_project_builds.html#header
+
 spring:
   - official:
     - legacy spring docs?: https://spring.io/docs/reference
     - spring docs but different?: https://docs.spring.io/spring/docs/current/spring-framework-reference/
-    - spring-security: https://docs.spring.io/spring-security/site/docs/current/reference/html5/#domain-acls
-    - websockets: https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#websocket
-    - websocket-security: https://docs.spring.io/spring-security/site/docs/5.2.0.RELEASE/reference/htmlsingle/#websocket
-    - websocket-portfolio github exampl: https://github.com/rstoyanchev/spring-websocket-portfolio
   - tutorials:
     - baeldung websockets: https://www.baeldung.com/websockets-spring
     - bealdung secuity acl: https://www.baeldung.com/spring-security-acl
     - spring-security dynamic ACL: http://itshrine.com/dynamically-secure-methods-by-spring-security/
+
+about this:
+  - this repo: https://github.com/gaerfield/bookmarks
+  - repos: https://github.com/gaerfield?tab=repositories

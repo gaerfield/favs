@@ -13,8 +13,9 @@ jobs:
           persist-credentials: false
       - name: Install and Build 🔧
         run: |
-          npm install
-          npm run build
+          npm install static-marks
+          mkdir build
+          ./node_modules/.bin/static-marks build *.yml > build/index.html
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
