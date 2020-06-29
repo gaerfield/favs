@@ -11,6 +11,14 @@ everything:
     - interactive git branching tutorial: https://learngitbranching.js.org/?locale=de_DE
     - fzf-keybindings: https://junegunn.kr/2016/07/fzf-git
     - fzf-keybindings-repo: https://gist.github.com/junegunn/8b572b8d4b5eddd8b85e5f4d40f17236
+  - github:
+    - is github down?: https://www.githubstatus.com/
+    - search github-actions:
+      - https://github.com/marketplace?type=actions
+      - cache: https://github.com/marketplace/actions/cache
+      - upload-artifact: https://github.com/actions/upload-artifact
+      - deploy to github-pages: https://github.com/marketplace/actions/github-pages-action
+    - keyboard-shortcuts: https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts
   - shell:
     - byobu: https://gist.github.com/jshaw/5255721
     - my dotfiles: https://github.com/gaerfield/dotfiles
