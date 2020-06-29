@@ -9,6 +9,7 @@ everything:
     - markdown-preview-enhanced visual studio code: https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced
   - git:
     - interactive git branching tutorial: https://learngitbranching.js.org/?locale=de_DE
+    - git-extras commands: https://github.com/tj/git-extras/blob/master/Commands.md
     - fzf-keybindings: https://junegunn.kr/2016/07/fzf-git
     - fzf-keybindings-repo: https://gist.github.com/junegunn/8b572b8d4b5eddd8b85e5f4d40f17236
   - github:
@@ -22,6 +23,7 @@ everything:
   - shell:
     - byobu: https://gist.github.com/jshaw/5255721
     - my dotfiles: https://github.com/gaerfield/dotfiles
+    - fzf-addons: https://github.com/junegunn/fzf/wiki/examples#git
 
 kotlin:
   - JPA:
