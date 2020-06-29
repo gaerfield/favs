@@ -43,5 +43,5 @@ spring:
     - spring-security dynamic ACL: http://itshrine.com/dynamically-secure-methods-by-spring-security/
 
 about this:
-  - this repo: https://github.com/gaerfield/bookmarks
+  - this repo: https://github.com/gaerfield/favs
   - repos: https://github.com/gaerfield?tab=repositories
