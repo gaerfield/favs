@@ -8,6 +8,7 @@ everything:
     - markdown-preview-enhanced atom: https://github.com/shd101wyy/markdown-preview-enhanced
     - markdown-preview-enhanced visual studio code: https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced
   - git:
+    - interactive git branching tutorial: https://learngitbranching.js.org/?locale=de_DE
     - fzf-keybindings: https://junegunn.kr/2016/07/fzf-git
     - fzf-keybindings-repo: https://gist.github.com/junegunn/8b572b8d4b5eddd8b85e5f4d40f17236
   - shell:
