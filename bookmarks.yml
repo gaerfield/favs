@@ -39,10 +39,12 @@ kotlin:
   - language:
     - guy with some awkward kotlin-tipps: https://agrawalsuneet.github.io/publications/
     - scope functions table (let, with, ...): https://kotlinlang.org/docs/reference/scope-functions.html#function-selection
+    - very good articles: https://typealias.com/
 
 gradle:
-  - migrating from groovy to kotlin: https://guides.gradle.org/migrating-build-logic-from-groovy-to-kotlin/
-  - multi-project builds: https://docs.gradle.org/current/userguide/multi_project_builds.html#header
+  - docs:
+    - migrating from groovy to kotlin: https://guides.gradle.org/migrating-build-logic-from-groovy-to-kotlin/
+    - multi-project builds: https://docs.gradle.org/current/userguide/multi_project_builds.html#header
 
 spring:
   - official:
@@ -54,6 +56,7 @@ spring:
     - spring-security dynamic ACL: http://itshrine.com/dynamically-secure-methods-by-spring-security/
 
 about this:
-  - this repo: https://github.com/gaerfield/favs
-  - repos: https://github.com/gaerfield?tab=repositories
+  - links back to home:
+    - this repo: https://github.com/gaerfield/favs
+    - repos: https://github.com/gaerfield?tab=repositories
 
