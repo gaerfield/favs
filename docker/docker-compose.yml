@@ -6,5 +6,5 @@ services:
         context: https://github.com/gaerfield/static-marks-docker.git
     image: static-marks
     volumes:
-        - ./bookmarks.yml:/bookmarks/bookmarks.yml:ro
+        - ../:/bookmarks/:ro
         - ./docs:/docs:rw

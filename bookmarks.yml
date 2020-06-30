@@ -13,9 +13,10 @@ everything:
     - fzf-keybindings: https://junegunn.kr/2016/07/fzf-git
     - fzf-keybindings-repo: https://gist.github.com/junegunn/8b572b8d4b5eddd8b85e5f4d40f17236
   - github:
+    - emoji cheat sheet: https://github.com/ikatyang/emoji-cheat-sheet
     - is github down?: https://www.githubstatus.com/
     - search github-actions:
-      - actions: https://github.com/marketplace?type=actions
+      - https://github.com/marketplace?type=actions
       - cache: https://github.com/marketplace/actions/cache
       - upload-artifact: https://github.com/actions/upload-artifact
       - deploy to github-pages: https://github.com/marketplace/actions/github-pages-action
